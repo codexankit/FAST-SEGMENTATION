@@ -1,10 +1,6 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-"""
-Created on Sun Dec  2 14:44:02 2018
 
-@author: sumanthnandamuri
-"""
 import numpy as np
 import torch
 from segmentor import SUMNet
