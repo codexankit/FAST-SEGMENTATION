@@ -1,10 +1,6 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-"""
-Created on Tue Nov  6 20:18:58 2018
 
-@author: sumanthnandamuri
-"""
 import os
 import pydicom
 import imageio
